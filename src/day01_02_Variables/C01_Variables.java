@@ -7,7 +7,7 @@ public class C01_Variables {
 		
 		// variable olusturmak ve deger atamak farkli islemlerdir
 		// istersek variable olusturma ve deger atamayi tek satirda yapabiliriz
-		
+		//
 		String ogrenciIsim = "Celal";
 		
 		System.out.println(ogrenciIsim); // Celal
